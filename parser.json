@@ -1,9 +1,9 @@
 {
-  "location": null,
-  "generate_from_json": null,
-  "generate": null,
   "lang": "c_sharp",
+  "generate": null,
+  "generate_from_json": null,
   "url": "https://github.com/tree-sitter/tree-sitter-c-sharp",
   "semver": false,
-  "parser_version": "88366631d598ce6595ec655ce1591b315cffb14c"
+  "parser_version": "88366631d598ce6595ec655ce1591b315cffb14c",
+  "location": null
 }
